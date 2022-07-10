@@ -15,6 +15,12 @@ Design and develop the Front-end (i.e. User Interfaces) of the selected website 
 - CSS
 - Java Script
 
+## External Sites used to Structure & Styles
+- for icons [iconsocut](https://iconscout.com/)
+- for fonts [google fonts](https://fonts.google.com/)
+- for colors [coolors](https://coolors.co/)
+
+
 ### Contributors
 
 - Leader - 215094P [RAJAPAKSHA R.V.K.J.](https://github.com/KasunJayasanka)
