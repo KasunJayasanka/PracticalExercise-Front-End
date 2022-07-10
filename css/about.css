@@ -1,0 +1,112 @@
+/*=============ACHIEVEMENTS===============*/
+
+body{
+    background-color: rgba(3, 3, 68, 0.992);
+}
+h1,h2,h3{
+    color: aliceblue;
+    text-transform: capitalize;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+    color: aliceblue;
+    
+}
+.about_achievement{
+    margin-top: 3rem;
+}
+
+.about_achievement_cont{
+    display: grid;
+    grid-template-columns: 40% 50%;
+    gap: 5rem;
+}
+
+.about_achievement-right{
+    margin: 1.6rem ;
+}
+
+.about_achievement-left{
+    margin: 3rem;
+    padding-left: 40px;
+}
+.achievements_cards{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 1.5rem;
+}
+
+.achievement_card{
+    background-color: red;
+    padding: 1.6rem;
+    border-radius: 10px;
+    text-align: center;
+    transition:none;
+}
+
+.achievement_card:hover{
+    background-color: rgb(254, 74, 74);
+    box-shadow: 30px;
+}
+
+.achievement_icon{
+    background-color: yellow;
+    padding: 0.6rem;
+    border-radius: 10px;
+    display: inline-block;
+    font-size: large;
+}
+
+
+/*=============END OF ACHIEVEMENTS===============*/
+
+
+/*===================OUR TEAM===================*/
+
+.team{
+    background-color: rgb(24, 24, 183);
+    box-shadow: inset 0 0 3rem black;
+    text-align: center;
+}
+
+.team_cont{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    padding: 20px;
+    gap: 40px;
+}
+
+.team_member{
+    background-color: rgb(97, 97, 251);
+    padding: 20px;
+    border:1px solid ;
+
+}
+
+.team_member:hover{
+    background-color:  rgba(20, 20, 84, 0.992);
+    transition: all 1s;
+
+}
+
+.team_member-image{
+    filter: saturate(0)
+    
+}
+
+.team_member-image:hover{
+    filter: saturate(1);
+}
+
+.team_member-info{
+    color: aqua;
+    margin-top: 1.4rem;
+}
+
+.team_member-socials{
+    background-color: rgb(144, 144, 251);
+    border-radius: 1rem 0 ; 
+
+}
+
+/*===================   END  ===================*/
