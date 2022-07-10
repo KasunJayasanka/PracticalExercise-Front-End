@@ -14,6 +14,7 @@ Design and develop the Front-end (i.e. User Interfaces) of the selected website 
 - HTML
 - CSS
 - Java Script
+- [SWIPER](https://swiperjs.com/)
 
 ## External Sites used to Structure & Styles
 - for icons [iconsocut](https://iconscout.com/)
