@@ -227,7 +227,8 @@ p{
 .team_cont{
     display: grid;
     grid-template-columns: repeat(4,1fr);
-    padding: 20px;
+    padding:30px;
+    margin:40px;
     gap: 40px;
 }
 
