@@ -54,7 +54,7 @@
 .achievement__card p{
 margin-top: 1rem;
 }
-/* end of Achievements Section */
+
 
 /* team section */
 
@@ -122,7 +122,7 @@ margin-top: 1rem;
     padding: 1rem;
 }
 
-/* end of team section */
+
 
 
 /* 
@@ -151,7 +151,7 @@ for TABLETS
     }
  }
 
- /* end of Media Queries for TABLETS */
+
 
 
  /* 
@@ -179,5 +179,3 @@ for Mobile Phones
         margin-bottom: 1.5rem;
     }
  }
-
- /* end of Media Queries for Mobile Phones */
