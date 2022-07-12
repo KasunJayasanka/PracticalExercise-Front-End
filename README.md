@@ -16,10 +16,11 @@ Design and develop the Front-end (i.e. User Interfaces) of the selected website 
 - Java Script
 - [SWIPER](https://swiperjs.com/)
 
-## External Sites used to Structure & Styles
+## External Sites used to Structure & Styles and Functions
 - for icons [iconsocut](https://iconscout.com/)
 - for fonts [google fonts](https://fonts.google.com/)
 - for colors [coolors](https://coolors.co/)
+- for forms [formspree](https://formspree.io/)
 
 
 ### Contributors
