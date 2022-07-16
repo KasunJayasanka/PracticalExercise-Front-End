@@ -29,5 +29,13 @@ Design and develop the Front-end (i.e. User Interfaces) of the selected website 
 - Member - 215123G [Weerasinghe W.P.A.S.](https://github.com/AmashaWeerasinghe)
 - Member - 215072X [Maheshika M.A.M.](https://github.com/Mihiliiyamaheshika)
 
+#### Final Submission
+
+- On or before 17<sup>th</sup>July 2022 - 11.59 P.M
+
+#### Demonstration
+
+- On 20<sup>th</sup>July 2022 - 10.15 A.M
+
 
 
